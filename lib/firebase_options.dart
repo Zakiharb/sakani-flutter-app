@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDPyjiPYd0AccpXEYP9uAFwkFhAYu4Vzms',
+    apiKey: 'AIzaSyDOWQwbp8zySf1Xr840w3F41eHAn_glA6o',
     appId: '1:40178181277:web:5c0eef0991351143f66074',
     messagingSenderId: '40178181277',
     projectId: 'ttu-housing-app',
