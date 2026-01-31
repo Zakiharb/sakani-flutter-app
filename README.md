@@ -1,16 +1,27 @@
-# ttu_housing_app
+# Sakani – Smart Student Housing App
 
-A new Flutter project.
+Sakani is a Flutter-based mobile application developed as a graduation project to help university students find verified housing near campus.
 
-## Getting Started
+The app focuses on transparency, usability, and solving a real problem students face when searching for accommodation.
 
-This project is a starting point for a Flutter application.
+## Key Features
+- Browse verified apartment listings with clear details
+- View apartment details including price, images, and description
+- Location-based distance estimation from the university
+- Save apartments for later comparison
+- Request management between students and apartment owners
+- Role-based access (Student, Owner, Admin)
+- Admin verification flow to ensure listing credibility
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter & Dart
+- Firebase Authentication
+- Cloud Firestore
+- Google Maps (location-based features)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Status
+This project was developed as a graduation project and is currently a functional MVP.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+**Zaki Harb**  
+LinkedIn: https://www.linkedin.com/in/zaki-harb-4616ab295/
